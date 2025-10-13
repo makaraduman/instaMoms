@@ -1,0 +1,9 @@
+# Core tools
+instaloader==4.11
+pandas==2.2.2
+
+# Playwright for browser automation
+playwright==1.53.0
+
+# Optional: Rich logging, helpful in debugging
+loguru==0.7.2
